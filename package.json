@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:mzkiskw/graphql-node.git",
   "author": "mzkiskw <srminmin1007@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
 }
